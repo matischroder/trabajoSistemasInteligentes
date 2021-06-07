@@ -1,0 +1,16 @@
+.importedImg {
+  height: 78vh;
+  margin-top: 30px;
+  overflow: scroll;
+}
+
+.importFile {
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+.confirm {
+  margin-right: 0px;
+  position: absolute;
+  right: 10%;
+}
